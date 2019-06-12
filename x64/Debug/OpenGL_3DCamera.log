@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\hunter jones\desktop\opengl-workspace\opengl_3dcamera\main.cpp(132): warning C4101: 'errorString': unreferenced local variable
+  OpenGL_3DCamera.vcxproj -> C:\Users\Hunter Jones\Desktop\OpenGL-Workspace\OpenGL_3DCamera\x64\Debug\OpenGL_3DCamera.exe
+  OpenGL_3DCamera.vcxproj -> C:\Users\Hunter Jones\Desktop\OpenGL-Workspace\OpenGL_3DCamera\x64\Debug\OpenGL_3DCamera.pdb (Partial PDB)
